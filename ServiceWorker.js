@@ -1,4 +1,4 @@
-const cacheName = "Fusing-WebAR_Fusing-0.1.0";
+const cacheName = "DefaultCompany-WebAR_ITWT-0.1.0";
 const contentToCache = [
     "Build/WebAR_Fusing.loader.js",
     "Build/WebAR_Fusing.framework.js",

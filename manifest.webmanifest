@@ -1,9 +1,9 @@
 {
-    "name": "WebAR_ITWT",
-    "short_name": "WebAR_ITWT",
+    "name": "WebAR_Template",
+    "short_name": "WebAR_Template",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#231F20",
+    "background_color": "#000000",
     "theme_color": "#000",
     "description": "",
     "icons": [{
